@@ -1,2 +1,6 @@
 # libs
-Tools which we are using that we find useful for the community. 
+
+Set of tools that created to weave different technologies into our stack.
+
+EXPERIMENTAL
+
